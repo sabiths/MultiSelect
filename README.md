@@ -1,5 +1,5 @@
 #MultiSelect
-MultiSelect is a plugin for converting traditional select dropdown into customised one.
+MultiSelect is a jQuery-based replacement for select boxes. It supports single select, multi select, and searching of options.
 
 #### Version: 
 1.0
