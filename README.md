@@ -77,7 +77,7 @@ Optional configurations-In detail,
  
 ###Methods
  
-####MultiSelect()
+####MultiSelect({})
  
 Invoking this method will replace the select box. Config parameters will be passed with this method
  
@@ -89,11 +89,11 @@ Invoking this method will return selected options from the select box
  
 Invoking this method will redraw the select box
  
-####check()
+####check(index)
  
 Invoking this method with option index will mark that option as selected
   
-####unCheck()
+####unCheck(index)
  
 Invoking this method with option index will mark that option as unselected
   
