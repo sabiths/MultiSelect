@@ -75,5 +75,32 @@ Optional configurations-In detail,
  - Function: Path to the image location.
  - Example : "Image/"
  
+ ###Methods
  
+ ####MultiSelect()
  
+ Invoking this method will replace the select box. Config parameters will be passed with this method
+ 
+ ####getValue
+ 
+ Invoking this method will return selected options from the select box
+ 
+ ####refresh
+ 
+ Invoking this method will redraw the select box
+ 
+ ####check
+ 
+  Invoking this method with option index will mark that option as selected
+  
+ ####unCheck
+ 
+  Invoking this method with option index will mark that option as unselected
+  
+ ####checkAll
+ 
+ Invoking this method will mark all the options as selected
+ 
+ ####unCheckAll
+ 
+ Invoking this method will mark all the options as unselected
